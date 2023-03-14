@@ -1,4 +1,4 @@
 # Mario Escobar
 
-I am a data analyst who loves to learn. Currently expanding skills on Python, Excel and Swift
+I have mostly worked around the food industry (5 years). Currently expanding skills on Python, Excel and GDScript.
 
